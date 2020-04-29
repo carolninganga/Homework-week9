@@ -1,7 +1,7 @@
 
 # GENERATE README
 
-![](images/week-9-2020-04-29-at-6.07.52-PM)
+![](utils/week-9-image.png)
 
 ## Description
 This is a command-line application that dynamically generates a README.md from a user's input. The user is prompted for their Github URL which calls Github API to retrieve their email and profile image. This is followed by questions about their project.
