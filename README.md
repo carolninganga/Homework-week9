@@ -31,7 +31,7 @@ npm i, node index.js
 Installation of dependecies such as axios, dotenv, and inquirer
 
 ## Contributing 
-Caroline Ninganga
+Caroline Ninganga 
 
 ## License
 
