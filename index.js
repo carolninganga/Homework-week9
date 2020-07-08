@@ -15,15 +15,17 @@ function writeToFile(fileName, data) {
 const init = async () => {
   try {
     const promptResponse = await inqiurer.prompt(prompts);
+    // API.getUserProfile(promptResponse.github)
+    // .then(res => console.log(res))
     const githubResponse = await API.getUserProfile(promptResponse.github);
     const data = {
       ...promptResponse,
       url: githubResponse.data.avatar_url,
       email: githubResponse.data.email
     }
-console.log(promptResponse);
-    if(githubResponse.data.email === "null") {
-      data["email"] = "null";
+    console.log(data)
+    if(githubResponse.data.email) {
+      data["email"] = githubResponse.data.email;
     }
     writeToFile("README.md", generateMarkdown(data))
 

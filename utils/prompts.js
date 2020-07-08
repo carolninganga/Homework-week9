@@ -36,10 +36,10 @@ const questionsToUser = [
         message: "What information is needed to be able to use URL?"
     },
     {
-        type: "input",
+        type: "list",
         name: "license",
         message: "What kind of license is needed for the project",
-        chioces: ["MIT", "APACHE 2.0", "GPL 3.0", "BSD 3"]
+        choices: ["MIT", "APACHE 2.0", "GPL 3.0", "BSD 3"]
     },
     {
         type: "input",

@@ -32,7 +32,7 @@ npm i
 
 
 ## License
-carolninganga@gmail.com
+MIT
 
 ## Link to project URL
 
@@ -42,5 +42,5 @@ carolninganga@gmail.com
 
 ## Questions
 
-For questions about the project contact carolninganga or directly at null.
+For questions about the project contact PhoebeYahengWu or directly at null.
 
