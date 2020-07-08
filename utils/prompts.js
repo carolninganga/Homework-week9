@@ -49,8 +49,8 @@ const questionsToUser = [
     },
     {
         type: "input",
-        name: "license",
-        message: "Enter licence number"
+        name: "techUsed",
+        message: "What technology and framework are used for this project?"
     },
     {
         type: "input",

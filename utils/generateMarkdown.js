@@ -38,6 +38,9 @@ ${data.license}
 ## Link to project URL
 ${data.URL_project}
 
+## techUsed
+${data.techUsed}
+
 ## Questions
 
 For questions about the project contact ${data.github} or directly at ${data.email}.

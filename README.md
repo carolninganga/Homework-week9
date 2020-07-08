@@ -1,20 +1,20 @@
 
-# Jokes Master007
+# 
 
 ## Description
-An application that uses jokes API to randomly generate jokes.
+
 
 ## Table of Contents
 
-* Installation
+* [Installation] (#installation)
 
-* Usage
+* [Usage](#usage)
 
-* License
+* [License](#liscense)
 
-* Contributing
+* [Contributing](#contributing)
 
-* Tests
+* [Tests](#tests)
 
 * links
 
@@ -29,18 +29,16 @@ npm i
 
 
 ## Contributing 
-Caroline Ninganga
+
 
 ## License
-
+carolninganga@gmail.com
 
 ## Link to project URL
 
 
-## Tests
+## techUsed
 
-for the tests to run in the application use the following command:
-npm test
 
 ## Questions
 
