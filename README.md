@@ -1,10 +1,8 @@
 
-# GENERATE README
-
-![](utils/week-9-image.png)
+# Jokes Master007
 
 ## Description
-This is a command-line application that dynamically generates a README.md from a user's input. The user is prompted for their Github URL which calls Github API to retrieve their email and profile image. This is followed by questions about their project.
+An application that uses jokes API to randomly generate jokes.
 
 ## Table of Contents
 
@@ -25,10 +23,10 @@ This is a command-line application that dynamically generates a README.md from a
 ## Installation
 
 To install necessary dependencies, run the following command:
-npm i, node index.js
+npm i
 
 ## Usage
-Installation of dependecies such as axios, dotenv, and inquirer
+
 
 ## Contributing 
 Caroline Ninganga
@@ -37,7 +35,7 @@ Caroline Ninganga
 
 
 ## Link to project URL
-https://carolninganga.github.io/README.md_Generator/
+
 
 ## Tests
 
@@ -46,4 +44,5 @@ npm test
 
 ## Questions
 
-For questions about the project contact carolninganga or directly at carolninganga@gmail.com.
+For questions about the project contact carolninganga or directly at null.
+

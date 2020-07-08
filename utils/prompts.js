@@ -22,7 +22,7 @@ const questionsToUser = [
     {
         type: "input",
         name: "description",
-        message: "Please enter a small description of your project?"
+        message: "Please enter a description of your project?"
     },
     {
         type: "input",

@@ -7,15 +7,15 @@ ${data.description}
 
 ## Table of Contents
 
-* Installation
+* [Installation] (#installation)
 
-* Usage
+* [Usage](#usage)
 
-* License
+* [License](#liscense)
 
-* Contributing
+* [Contributing](#contributing)
 
-* Tests
+* [Tests](#tests)
 
 * links
 
@@ -37,11 +37,6 @@ ${data.license}
 
 ## Link to project URL
 ${data.URL_project}
-
-## Tests
-
-for the tests to run in the application use the following command:
-${data.test}
 
 ## Questions
 
